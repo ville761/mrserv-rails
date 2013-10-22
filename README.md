@@ -1,4 +1,6 @@
-== README
+This is a webserver for the [*CCP4*](http://www.ccp4.ac.uk)
+Molecular replacement pipelines. It will eventually replace the Balbes 
+server and will include MrBUMP and others.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,7 +24,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
